@@ -362,7 +362,7 @@
                                     "yum -y update",
                                     "yum -y install httpd",
 									"service httpd start",
-                                    "echo \"<html><body><h1>Welcome</h1>\" > /var/www/index.html"
+                                    "echo \"<html><body><h1>Welcome</h1>\" > /var/www/html/index.html"
                                 ]
                             ]
                         }
